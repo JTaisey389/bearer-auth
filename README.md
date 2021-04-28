@@ -6,6 +6,9 @@
 
 ### Links and Resources
 
+https://github.com/JTaisey389/bearer-auth/pull/1
+TODO HEROKU
+
 ### Setup
 - Clone down to your device
 - In the root directory, run **npm install** to install node modules 
